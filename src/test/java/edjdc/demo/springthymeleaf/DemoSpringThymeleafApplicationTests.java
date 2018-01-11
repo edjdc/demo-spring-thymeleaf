@@ -1,4 +1,4 @@
-package edjdc.demo.springevents;
+package edjdc.demo.springthymeleaf;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
